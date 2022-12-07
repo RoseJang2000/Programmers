@@ -5,6 +5,5 @@ function solution(my_string) {
     str.forEach(el => {
         if (el / 1) result += el / 1;
     })
-    
     return result;
 }
